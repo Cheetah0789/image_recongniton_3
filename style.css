@@ -1,0 +1,25 @@
+.heading{
+    width: 50%;
+    font-size: 22px;
+    font-family: cursive;
+    letter-spacing: 3px;
+    text-shadow:2px 2px 5px brown ;
+}
+
+body{
+background-color: beige;
+}
+
+.name_of_objects{
+    font-family: monospace;
+    font-size: 20px;
+    color: peru;
+    letter-spacing: 5px;
+    text-shadow:2px 2px 2px black ;
+}
+
+#camera{
+    width: 320px;
+    height: 300px;
+    border: 3px dashed chocolate;
+}
